@@ -12,7 +12,9 @@ The app has three sections:
 - **Middle**: Details about the selected task  
 - **Right**: Filters and statistics
 
-![TaskMaster Pro Main Interface](https://via.placeholder.com/1200x600?text=TaskMaster+Pro+Main+Dashboard)
+<img width="1187" height="692" alt="Screenshot 2026-05-17 220408" src="https://github.com/user-attachments/assets/aaa64522-c021-490d-a1cd-72a76f67d4f4" />
+<img width="1187" height="685" alt="Screenshot 2026-05-17 220426" src="https://github.com/user-attachments/assets/13a7e39f-bc91-4bae-8f61-02947f0c3b3d" />
+
 
 ### Adding a Task
 When you click "Add Task", a form appears where you can fill in all the details.
