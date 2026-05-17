@@ -19,7 +19,6 @@ The app has three sections:
 ### Adding a Task
 When you click "Add Task", a form appears where you can fill in all the details.
 
-![Add Task Dialog](https://via.placeholder.com/500x700?text=Add+Task+Dialog)
 
 ---
 
